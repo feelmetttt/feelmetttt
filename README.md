@@ -18,4 +18,8 @@ Background: 10 years in audit, internal control and financial analysis — now b
 | **E-commerce / CRM + bots** | Orders & CRM with Telegram + MAX bot parity | advisory-lock numbering, prod-hardened |
 | **Chrome MV3 extension** | Meeting recording, transcription, AI summaries | 90/90 vitest, 5 AI providers, WASM STT |
 
+### Open source
+
+- **[llm-judge](https://github.com/feelmetttt/llm-judge)** — provider-agnostic LLM-as-judge: weighted rubric + multi-model panel voting. Zero deps, fully tested, CI green.
+
 📫 **feelmetttt@gmail.com**
