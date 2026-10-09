@@ -13,7 +13,7 @@ Background: 10 years in audit, internal control and financial analysis — now b
 
 | Project | What it is | Signals |
 |---|---|---|
-| **AI audit engine** | AI agent over 1C/Excel that surfaces financial risks and drafts working papers | 522 tests, 94.99% coverage, two-phase agent |
+| **Own AI-agent product** | In closed development; purpose and design not disclosed | 522 tests, 94.99% coverage, multi-step agents with spend limits |
 | **Full-stack AI PWA** | Ops PWA with AI chat + voice input (Whisper, SSE) | E2E 23/23 desktop + 23/23 mobile, 0 console errors |
 | **E-commerce / CRM + bots** | Orders & CRM with Telegram + MAX bot parity | advisory-lock numbering, prod-hardened |
 | **Chrome MV3 extension** | Meeting recording, transcription, AI summaries | 90/90 vitest, 5 AI providers, WASM STT |
